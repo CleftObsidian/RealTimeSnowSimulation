@@ -1,17 +1,5 @@
 # Real Time Snow Simulation
 
-## 프로젝트 개요
-2022년 2학기 소프트웨어 융합학과 게임공학 수업 텀프로젝트  
-개발기간 : (2022'04'17) ~ (2022'06'15)    
-개발도구 : UE4 4.27.2, CUDA 11.6, C++  
-협업방식 : AWS + Perforce(p4v)  
-팀원 :  
--[강수한](https://github.com/tngksdlstk12)  
--[원종서](https://github.com/Wawtuh)    
--[박경숙](https://github.com/Tuesberry)    
--[윤태웅](https://github.com/yuntaewoong)    
--[안해영](https://github.com/anhaeyeong)
-
 ## 프로젝트 소개
 CUDA와 언리얼을 이용해서 실시간 눈 시뮬레이션 구현  
 
