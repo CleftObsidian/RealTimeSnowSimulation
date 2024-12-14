@@ -2,6 +2,7 @@
 
 ## 프로젝트 소개
 CUDA와 언리얼을 이용해서 실시간 눈 시뮬레이션 구현  
+[Video](https://youtu.be/WKR_IzxdXCM)
 
 ## Installation
 * `git clone [레포지토리 주소]` 로 프로젝트 Clone
